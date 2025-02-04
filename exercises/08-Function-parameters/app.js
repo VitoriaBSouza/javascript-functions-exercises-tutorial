@@ -1,4 +1,7 @@
 // Your code goes here:
+function renderPerson(name,DoB,eyesColor,age,gender,){
+    return name+ " is a "+age+" years old "+gender+" born in "+DoB+" with "+eyesColor+" eyes"
+}
 
 
 

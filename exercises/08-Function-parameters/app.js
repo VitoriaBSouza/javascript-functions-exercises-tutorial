@@ -1,7 +1,8 @@
 // Your code goes here:
-let renderPerson = (name, DoB, EyesColor, age, gender) => {
-    return name+" is a "+age+" years old "+gender+" born in "+DoB+ " with "+EyesColor+" eyes"
+function renderPerson(name,DoB,eyesColor,age,gender,){
+    return name+ " is a "+age+" years old "+gender+" born in "+DoB+" with "+eyesColor+" eyes"
 }
+
 
 
 ///*** Do not edit below this line ***///
